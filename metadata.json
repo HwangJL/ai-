@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI 梦幻衣橱 (AI Wardrobe)",
+  "description": "基于 Nano Banana (Gemini) 的智能换装应用。上传人物与衣物，一键生成真人试穿效果。",
+  "requestFramePermissions": []
+}
